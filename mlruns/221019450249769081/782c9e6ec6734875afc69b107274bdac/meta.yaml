@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/782c9e6ec6734875afc69b107274bdac/artifacts
+end_time: 1758792284046
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: active
+run_id: 782c9e6ec6734875afc69b107274bdac
+run_name: incongruous-rat-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758792273431
+status: 3
+tags: []
+user_id: Anindya.Sarkar

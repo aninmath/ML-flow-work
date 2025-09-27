@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/2f9b35eb607a4931a3963154fedbe94d/artifacts
+deleted_time: 1758792263984
+end_time: 1758791602112
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: deleted
+run_id: 2f9b35eb607a4931a3963154fedbe94d
+run_name: bold-hound-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758791590162
+status: 3
+tags: []
+user_id: Anindya.Sarkar

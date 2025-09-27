@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/90ac54fbfbe04d24baf2238e5a522c94/artifacts
+deleted_time: 1758792263988
+end_time: 1758790920787
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: deleted
+run_id: 90ac54fbfbe04d24baf2238e5a522c94
+run_name: upset-shrew-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758790919262
+status: 3
+tags: []
+user_id: Anindya.Sarkar

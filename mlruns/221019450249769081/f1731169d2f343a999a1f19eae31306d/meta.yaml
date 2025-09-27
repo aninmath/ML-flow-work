@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/f1731169d2f343a999a1f19eae31306d/artifacts
+deleted_time: 1758792263980
+end_time: 1758791947559
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: deleted
+run_id: f1731169d2f343a999a1f19eae31306d
+run_name: wise-stork-580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758791946126
+status: 3
+tags: []
+user_id: Anindya.Sarkar

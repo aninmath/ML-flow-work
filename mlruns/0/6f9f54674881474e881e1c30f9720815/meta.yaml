@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f9f54674881474e881e1c30f9720815/artifacts
+end_time: 1758782794286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f9f54674881474e881e1c30f9720815
+run_name: stately-fawn-205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758782794156
+status: 3
+tags: []
+user_id: Anindya.Sarkar

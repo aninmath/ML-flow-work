@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/7ae3c24f5ff24c1182a16a0ae4c670e8/artifacts
+deleted_time: 1758792263987
+end_time: 1758791848625
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: deleted
+run_id: 7ae3c24f5ff24c1182a16a0ae4c670e8
+run_name: intrigued-lamb-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758791809238
+status: 3
+tags: []
+user_id: Anindya.Sarkar

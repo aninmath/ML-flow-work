@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/b9f33322aa8f4090af9e4c4dffcd8ef7/artifacts
+deleted_time: 1758792263978
+end_time: 1758792083151
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: deleted
+run_id: b9f33322aa8f4090af9e4c4dffcd8ef7
+run_name: blushing-yak-622
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758792082429
+status: 3
+tags: []
+user_id: Anindya.Sarkar
