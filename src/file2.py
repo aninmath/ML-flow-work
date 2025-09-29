@@ -7,8 +7,17 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+import dagshub
 
+# dagshub.init(repo_owner = 'aninmath', repo_name = 'ML-flow-work', mlflow = True)
+
+
+
+
+import dagshub
+
+
+mlflow.set_tracking_uri('https://dagshub.com/aninmath/ML-flow-work.mlflow')
 
 
 
@@ -26,7 +35,9 @@ n_estimators = 5
 
 # Mention your experiment below
 
-with mlflow.start_run(experiment_id= 221019450249769081):
+mlflow.set_experiment('experiment ML 1')
+
+with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
     rf.fit(X_train, y_train)
 

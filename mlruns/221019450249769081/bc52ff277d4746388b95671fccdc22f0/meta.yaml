@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/221019450249769081/bc52ff277d4746388b95671fccdc22f0/artifacts
+end_time: 1758965487900
+entry_point_name: ''
+experiment_id: '221019450249769081'
+lifecycle_stage: active
+run_id: bc52ff277d4746388b95671fccdc22f0
+run_name: gentle-dog-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758965467281
+status: 3
+tags: []
+user_id: Anindya.Sarkar
